@@ -1,0 +1,73 @@
+# ============================
+# Python
+# ============================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ============================
+# Virtual environments
+# ============================
+venv/
+env/
+.env/
+
+# ============================
+# IDE
+# ============================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ============================
+# Jupyter Notebook
+# ============================
+.ipynb_checkpoints/
+
+# ============================
+# Model weights & large files
+# ============================
+*.pt
+*.pth
+*.onnx
+*.engine
+*.openvino
+*.tflite
+*.bin
+*.mp4
+*.avi
+*.mov
+
+# ============================
+# Experiment outputs & logs
+# ============================
+runs/
+logs/
+*.log
+
+# ============================
+# OS files
+# ============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================
+# Project-specific
+# ============================
+# Tracker output JSON files
+*_output.json
+
+# Pre-generated detections & embeddings
+runs/dets_n_embs/
+
+# Poetry lock (too large for GitHub)
+poetry.lock
