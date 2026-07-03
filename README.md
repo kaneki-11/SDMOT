@@ -1,4 +1,4 @@
-# SDMOT: Scene-Driven Dynamic Feature Optimization and Nonlinear Modeling for Multi-Object Tracking
+# SDMOT: A Scene-Driven Multi-Object Tracking Framework with Dynamic Feature Optimization and Nonlinear Motion Modeling
 
 <div align="center">
 
